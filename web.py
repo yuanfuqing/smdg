@@ -10,3 +10,4 @@ def run_query(query):
     rows = conn.execute(query, headers=1)
     rows = rows.fetchall()
     return rows
+st.write("Hello")
