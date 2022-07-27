@@ -1,1 +1,2 @@
-gsheetsdb==x.x.x
+gsheetsdb
+streamlit
